@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neha2124.github.io/contest-f4/static/css/main.3ddb17b0.css",
+    "main.js": "/neha2124.github.io/contest-f4/static/js/main.3ce9c682.js",
+    "static/js/787.b7cd4c73.chunk.js": "/neha2124.github.io/contest-f4/static/js/787.b7cd4c73.chunk.js",
+    "index.html": "/neha2124.github.io/contest-f4/index.html",
+    "main.3ddb17b0.css.map": "/neha2124.github.io/contest-f4/static/css/main.3ddb17b0.css.map",
+    "main.3ce9c682.js.map": "/neha2124.github.io/contest-f4/static/js/main.3ce9c682.js.map",
+    "787.b7cd4c73.chunk.js.map": "/neha2124.github.io/contest-f4/static/js/787.b7cd4c73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ddb17b0.css",
+    "static/js/main.3ce9c682.js"
+  ]
+}
